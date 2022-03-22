@@ -6,6 +6,8 @@ ML_MIDTERM_ Housing data analysis
 2. saved Model file: saved in Github
 3. Dataset Drive Link:  https://drive.google.com/drive/folders/1YgRqVET8mfLBOCLA_c_2UnZn1fn4d-ai
 
+4. Link to our team google drive folder- https://drive.google.com/drive/u/1/folders/1YgRqVET8mfLBOCLA_c_2UnZn1fn4d-ai. 
+
 EDA Dashboard:
 
 ![dashboard1](https://user-images.githubusercontent.com/77387431/159429388-62d564bd-356c-459f-a07a-da4c6c48bbc2.jpeg)
