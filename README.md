@@ -2,8 +2,8 @@
 ML_MIDTERM_ Housing data analysis
 
 
-1. Colab Link
-2. saved Model file
+1. Colab Link : https://colab.research.google.com/drive/1zmaNX4_NVpIK4Iy3GenShP2N_PBePHI1?usp=sharing
+2. saved Model file: saved in Github
 3. Dataset Drive Link:  https://drive.google.com/drive/folders/1YgRqVET8mfLBOCLA_c_2UnZn1fn4d-ai
 
 EDA Dashboard:
