@@ -4,9 +4,7 @@ ML_MIDTERM_ Housing data analysis
 
 1. Colab Link : https://colab.research.google.com/drive/1zmaNX4_NVpIK4Iy3GenShP2N_PBePHI1?usp=sharing
 2. saved Model file: saved in Github
-3. Dataset Drive Link:  https://drive.google.com/drive/folders/1YgRqVET8mfLBOCLA_c_2UnZn1fn4d-ai
-
-4. Link to our team google drive folder- https://drive.google.com/drive/u/1/folders/1YgRqVET8mfLBOCLA_c_2UnZn1fn4d-ai. 
+3. Google Drive Link for DataSets( Original+ scraped) and team folder for midterm-colab :  https://drive.google.com/drive/u/1/folders/1YgRqVET8mfLBOCLA_c_2UnZn1fn4d-ai
 
 EDA Dashboard:
 
